@@ -6,7 +6,7 @@
 | **Student number** | ST10532019 |
 | **Module** | WEDE5020 – Web Development (Introduction) |
 | **Submission** | Part 3 – Enhancing Functionality and SEO |
-| **Live website** | https://glittering-bunny-5d3cb6.netlify.app |
+| **Live website** | https://kaleidoscopic-nougat-f74c81.netlify.app |
 | **GitHub repository** | https://github.com/Kenneth0476/Aggreys-Bakery.git
 ## 1. About the project
 
