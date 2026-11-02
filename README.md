@@ -7,8 +7,7 @@
 | **Module** | WEDE5020 – Web Development (Introduction) |
 | **Submission** | Part 3 – Enhancing Functionality and SEO |
 | **Live website** | https://glittering-bunny-5d3cb6.netlify.app |
-| **GitHub repository** | *(paste your repository link here)* |
-
+| **GitHub repository** | https://github.com/Kenneth0476/Aggreys-Bakery.git
 ## 1. About the project
 
 Aggrey's Bakery is a locally owned bakery in Danville Extension 16, Pretoria West. The bakery sells bread, cakes and confectionery, but it does not have a working website. This project builds a website that introduces the bakery, shows what it bakes and lets customers ask questions.
